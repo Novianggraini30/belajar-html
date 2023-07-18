@@ -1,6 +1,6 @@
 # Contoh gambar bukti pembayaran
 
-[![bukti pembayaran](<[![Bukti-pembayaran.jpg](https://i.postimg.cc/TYdygj3M/Bukti-pembayaran.jpg)](https://postimg.cc/WtybPkZX)>)]
+[![bukti pembayaran](https://i.postimg.cc/TYdygj3M/Bukti-pembayaran.jpg)](https://postimg.cc/WtybPkZX)
 
 # Link gambar
 
